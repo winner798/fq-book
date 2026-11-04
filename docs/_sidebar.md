@@ -1,15 +1,26 @@
-* 关于本书
+* 🚀 零基础系统课程（建议从这里开始）
+  * [学习路线与使用方法](course/00-roadmap.md)
+  * [01 网站访问的完整过程](course/01-web-journey.md)
+  * [02 代理、VPN、TUN 与分流](course/02-proxy-vpn.md)
+  * [03 VPS、Linux 和服务器](course/03-server.md)
+  * [04 客户端—服务器实战](course/04-lab.md)
+  * [05 Windows / Android 客户端](course/05-clients.md)
+  * [06 分层排查网络问题](course/06-troubleshooting.md)
+  * [07 进阶架构与毕业项目](course/07-advanced.md)
+
+* 📚 旧版专题资料（按需查阅，注意时效）
+* $1
   * [前言](README.md)
 
-* 阅读须知
+* $1
   * [4GFW](look/4gfw.md)
   * [注意事项](look/notice.md)
   * [隐私防护](look/nsfw.md)
 
-* 快速开始
+* $1
   * [快速入手](qintro/quickstart.md)
 
-* 方法论
+* $1
   * [获取梯子上网的方式](method/get-method.md)
   * [获取国外手机号码](fkca/esim.md)
   * [开通虚拟信用卡摸索历程](fkca/mastercard.md)
@@ -21,31 +32,31 @@
   * [离岸爱国、数字侨居、脱钩与双重封锁](fkca/gougong.md)
   * [跨国阶层跃升中的零容错接力与资本特权](fkca/gougongnuchubuzhoushan.md)
 
-* DNS、Hosts
+* $1
   * [DNSCrypt](dns&hosts/dnscrypt.md)
   * [DNS](dns&hosts/dns.md)
   * [hosts](dns&hosts/hosts.md)
 
-* 浏览应用
+* $1
   * [chrome](browse/chrome.md)
   * [opera](browse/opera.md)
   * [tor（firefox）](browse/tor-firefox.md)
   * [puffin](browse/puffin.md)
   * [zeronet](browse/zeronet.md)
 
-* VPN软件
+* $1
   * [Betternet](vpn/betternet.md)
   * [典型VPN概览](vpn/classical-vpn.md)
   * [wireguard](vpn/wireguard.md)
 
-* 代理工具
+* $1
   * [SS/SSR](proxy/ss-ssr.md)
   * [v2ray](proxy/v2ray.md)
   * [proxifier](proxy/proxifier.md)
   * [privoxy](proxy/privoxy.md)
   * [SSH-Tunnel](proxy/SSH-Tunnel.md)
 
-* 使用网站
+* $1
   * [搜索站点](web/searchtools.md)
   * [网页时光机](web/web-archive.md)
   * [利用个人博客及视频平台](web/use-blog.md)
@@ -54,7 +65,7 @@
   * [heroku搭建v2ray服务器](web/v2ray-4-heroku.md)
   * [heroku搭建ss分享站点](web/heroku-deploy.md)
 
-* ipfs专题
+* $1
 
   * [ipfs](ipfs/ipfs.md)
   * [ipfs简单使用](ipfs/ipfs-use-naive.md)
@@ -66,7 +77,7 @@
    * [不止于APN](fkca/apn.md)
    * [最後のTag](fkca/tag.md)
 
-* 科学普及
+* $1
   * [软件互联协议](abc/connection.md)
   * [DNS劫持与污染](abc/4dns.md)
   * [数字证书攻防概述](abc/dc_zhenshu.md)
@@ -83,7 +94,7 @@
   * [集群、分布式、负载均衡区别](abc/p7255364.md)
   * [为什么翻了墙，也无法访问某网站？](a123/rst-syscall.md)
 
-* 仅作了解
+* $1
   * [accesser](cnnic/no-chn.md)
   * [goagent](only/goagent.md)
   * [gatherproxy](only/gatherproxy.md)
@@ -92,7 +103,7 @@
   * [reqrypt](only/reqrypt.md)
   * [barbaTunnel](only/barbaTunnel.md)
 
-* 细节补充
+* $1
   * [ss#1130](append/ss1130.md)
   * [难封锁的草榴](append/caoliu.md)
   * [简谈杀毒软件](append/guochan-sharuan.md)
@@ -109,8 +120,8 @@
   * [关于目前 GFW(墙) 的封锁方式TCP封锁(阻断)猜想](doub/wkcjzpyd-2.md)
   * [浅谈HTTP劫持、DNS污染的影响及解决办法](doub/6t3mypbm-5.md)
  
-* 此书后记
+* $1
   * [后记](postscript.md)
 
-* 参考文献
+* $1
   * [文献列表](reference/literature.md)
